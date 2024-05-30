@@ -65,3 +65,38 @@
   - Mã hóa hoặc nhận thực văn bản (Các tiêu chuẩn chữ ký XML* hoặc mã hóa XML* khi văn bản được thể hiện dưới dạng XML);
   - Xác thực người dùng ứng dụng (Đăng nhập bằng thẻ thông minh; nhận thực người dùng trong SSL);
   - Ứng dụng trong chữ ký số, chứng chỉ số. 
+
+
+## Chương 5: Thám mã
+
+  ![image](https://github.com/H4lst0n/mmhcs/assets/91616280/cbd311f9-4183-4e26-bb07-9e4fd215b56a)
+
+
+Câu 1. Hãy trình bày khái niện về thám mã?
+
+- Phương pháp thám mã: là các thuật toán, kỹ thuật nhằm phân tích bản mã tìm ra khóa, hoặc bản rõ, hoặc cả khóa và bản rõ. Như vậy, phương pháp thám mã cũng giống như phương pháp mã hóa là đều có những phương pháp và kỹ thuật chung.
+- Tuy nhiên, sự khác biệt ở chỗ: phương pháp mã hóa sử dụng thuật toán, kỹ thuật nhằm biến đổi thông điệp thành bản mã, còn phương pháp thám mã dùng phương pháp, kỹ thuật, thuật toán nhằm  tìm ra bản rõ hoặc quy luật mã hóa, hoặc khóa bí mật. 
+
+Câu 2. Hãy trình bày một số kỹ thuât thám mã?
+- Thám mã khi chỉ biết bản mã (ciphertext-only attack)
+- Thám mã khi đã biết bản rõ (known-plaintext attack)
+- Thám mã bản rõ chọn sẵn (chosen plaintext attack)
+- Thám mã chọn bản mã thích nghi (adaptive-chosen-ciphertext attack)
+
+Cấu 3. Hãy trình bày về quy trình thám mã?
+- Thám mã: bước này thực hiện phân tích bản mã. Trong bước này gồm 2 công việc chính:
+  - Thám mã trực tiếp: Nếu bản mã thuộc loại mã hóa truyền thống như các mã hóa thủ công hoặc được mã bằng một máy mã cụ thể nào đó mà có thuật toán thám mã thì có thể tiến hành thám trực tiếp (thực hiện thủ công và sau đó có thể tự động hoá bằng lập trình trên máy tính). 
+  
+  - Xây dựng phương pháp thám mã: Nếu giải thuật mã hóa thuộc loại mới, công việc yêu cầu phức tạp cần phải xây dựng phương pháp thám mã cho phù hợp.
+
+Cấu 4. Hãy trình bày về phương pháp thám mã vi sai?
+
+Câu 5. Hãy trình bày về phương pháp thám mã tuyến tính?
+
+Câu 6. Hãy trình bày về phương pháp thám mã nội suy?
+
+Câu 7. Hãy trình bày về một số kỹ thuật thám mã dựa trên cơ sở toán học của các giải thuật mã hóa khóa bất đối xứng?
+
+Câu 8. Hãy trình bày về thám mã lựa chọn bản mã thích nghi?
+
+Câu 9. Hãy trình bày về thám mã kênh bên trên giải thuật mã hóa khóa bất đối xứng 
