@@ -8,7 +8,9 @@
 ### 1) Hãy trình bày đặc điểm chính của thuật toán mã hóa khóa công khai?. Vẽ sơ đồ minh họa quy trình mã hóa và giải mã của thuật toán mã hóa khóa công khai?.
 <br>
 - Mã hóa công khai ( hay gọi là mã hóa bất đối xứng ): là phương pháp mã hóa mà khóa sử dụng để mã hóa sẽ khác với khóa dùng để giải mã.
+
 - Khóa dùng để giải mã hóa gọi là khóa công khai và khóa dùng để giải mã gọi là khóa bí mật.
+
 - Tất cả mọi người đều có thể biết khóa công khai nhưng chỉ người nhận mới nắm giữ khóa bí mật nên mới có thể giải mã
 
 
