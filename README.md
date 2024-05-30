@@ -39,9 +39,9 @@
 
 ### 5) Hãy phân tích mức độ an toàn của thuật toán RSA?.
 
-Độ phức tạp trong tính toán RSA:
-Có hai vấn đề về độ phức tạp tính toán trong phương pháp mã hóa RSA. Đó là các 
-phép tính sinh khóa và các phép tính mã hóa/giải mã.
+- Mức độ an toàn của RSA hiện tại vẫn rất cao nếu sử dụng đúng các phương pháp tạo khóa và duy trì khóa có độ dài đủ lớn. 
+
+- Tuy nhiên, cần liên tục theo dõi và cập nhật các biện pháp bảo mật để đối phó với các tiến bộ trong công nghệ tính toán và toán học.
 
 ### 6) Hãy trình bày về ưu nhược điểm của mã hóa bất đối xứng?.
 
