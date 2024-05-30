@@ -15,7 +15,11 @@
 
 
 ### 2) Hãy trình bày về chứng thực trong mô hình mã hóa bất đối xứng?.
-- Mã hóa bất đối xứng là các phương pháp mà quy trình mã hóa và giải mã sử dụng các khóa khác nhau
+- Mã hóa bất đối xứng là các phương pháp mà quy trình mã hóa và giải mã sử dụng các khóa khác nhau qua các bước
+  - Mã hóa chứng thực
+  - Mã hóa bảo mật
+  - Giải mã bảo mật
+  - Giải mã chứng thực
 
   ![image](https://github.com/H4lst0n/mmhcs/assets/91616280/fc21b95c-bef9-44ae-a4ef-6afd9b13dbbc)
 
