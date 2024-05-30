@@ -10,14 +10,14 @@
 - Mã hóa công khai ( hay gọi là mã hóa bất đối xứng ): là phương pháp mã hóa mà khóa sử dụng để mã hóa sẽ khác với khóa dùng để giải mã.
 - Khóa dùng để giải mã hóa gọi là khóa công khai và khóa dùng để giải mã gọi là khóa bí mật.
 - Tất cả mọi người đều có thể biết khóa công khai nhưng chỉ người nhận mới nắm giữ khóa bí mật nên mới có thể giải mã
-<br>
+
 
 ### 2) Hãy trình bày về chứng thực trong mô hình mã hóa bất đối xứng?.
 - Mã hóa bất đối xứng là các phương pháp mà quy trình mã hóa và giải mã sử dụng các khóa khác nhau
   <br>
   ![image](https://github.com/H4lst0n/mmhcs/assets/91616280/fc21b95c-bef9-44ae-a4ef-6afd9b13dbbc)
 
-<br>  
+
 ### 3) Hãy nêu các yêu cầu cơ bản trong thủ tục sinh khóa trong thuật toán mã hóa RSA?. Hãy phân tích các yêu cầu cơ bản đó?.
 <br>
 - Phép tính sinh khóa là chọn p và q nguyên tố để tính N.
@@ -38,7 +38,6 @@
 Độ phức tạp trong tính toán RSA:
 Có hai vấn đề về độ phức tạp tính toán trong phương pháp mã hóa RSA. Đó là các 
 phép tính sinh khóa và các phép tính mã hóa/giải mã.
-<br>
 
 ### 6) Hãy trình bày về ưu nhược điểm của mã hóa bất đối xứng?.
 <br>
@@ -48,7 +47,7 @@ phép tính sinh khóa và các phép tính mã hóa/giải mã.
 
 - Nhược điểm:
   - Tốc độ mã hóa, giải mã chậm hơn so với mã hóa đối xứng
-<br>    
+ 
 ### 7) Hãy nêu một vài ứng dụng của mã hóa bất đối xứng?.
 <br>
 - Ứng dụng cơ bản của các thuật toán mã hóa bất đối xứng nói chung bao gồm: 
