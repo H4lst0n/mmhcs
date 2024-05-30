@@ -4,20 +4,20 @@
 
   ![image](https://github.com/H4lst0n/mmhcs/assets/91616280/9a9c53be-64e9-4abb-84b4-560164315f42)
 
-1) Hãy trình bày đặc điểm chính của thuật toán mã hóa khóa công khai?. Vẽ sơ đồ minh 
+### 1) Hãy trình bày đặc điểm chính của thuật toán mã hóa khóa công khai?. Vẽ sơ đồ minh 
 họa quy trình mã hóa và giải mã của thuật toán mã hóa khóa công khai?.
 
 - Mã hóa công khai ( hay gọi là mã hóa bất đối xứng ): là phương pháp mã hóa mà khóa sử dụng để mã hóa sẽ khác với khóa dùng để giải mã.
 - Khóa dùng để giải mã hóa gọi là khóa công khai và khóa dùng để giải mã gọi là khóa bí mật.
 - Tất cả mọi người đều có thể biết khóa công khai nhưng chỉ người nhận mới nắm giữ khóa bí mật nên mới có thể giải mã
 
-2) Hãy trình bày về chứng thực trong mô hình mã hóa bất đối xứng?.
+### 2) Hãy trình bày về chứng thực trong mô hình mã hóa bất đối xứng?.
 - Mã hóa bất đối xứng là các phương pháp mà quy trình mã hóa và giải mã sử dụng các khóa khác nhau
   
   ![image](https://github.com/H4lst0n/mmhcs/assets/91616280/fc21b95c-bef9-44ae-a4ef-6afd9b13dbbc)
 
   
-3) Hãy nêu các yêu cầu cơ bản trong thủ tục sinh khóa trong thuật toán mã hóa RSA?. Hãy 
+### 3) Hãy nêu các yêu cầu cơ bản trong thủ tục sinh khóa trong thuật toán mã hóa RSA?. Hãy 
 phân tích các yêu cầu cơ bản đó?.
 
 - Phép tính sinh khóa là chọn p và q nguyên tố để tính N.
@@ -27,19 +27,19 @@ phân tích các yêu cầu cơ bản đó?.
   ![image](https://github.com/H4lst0n/mmhcs/assets/91616280/543a098e-ed1a-4bd3-b5b8-8350e76db796)
 
 
-4) Hãy trình bày về quá trình mã hóa và giải mã của thuật toán RSA?. Hãy lấy ví dụ minh 
+### 4) Hãy trình bày về quá trình mã hóa và giải mã của thuật toán RSA?. Hãy lấy ví dụ minh 
 họa về quá trình mã hóa và giải mã của thuật toán RSA?.
 
   ![image](https://github.com/H4lst0n/mmhcs/assets/91616280/db7b470f-4643-4862-85fc-892d275339f4)
 
-6) Hãy phân tích mức độ an toàn của thuật toán RSA?.
+### 5) Hãy phân tích mức độ an toàn của thuật toán RSA?.
 
 Độ phức tạp trong tính toán RSA:
 Có hai vấn đề về độ phức tạp tính toán trong phương pháp mã hóa RSA. Đó là các 
 phép tính sinh khóa và các phép tính mã hóa/giải mã.
 
 
-8) Hãy trình bày về ưu nhược điểm của mã hóa bất đối xứng?.
+### 6) Hãy trình bày về ưu nhược điểm của mã hóa bất đối xứng?.
    
 - Ưu điểm:
   - Kích thước khóa lớn, độ an toàn cao;
@@ -48,7 +48,7 @@ phép tính sinh khóa và các phép tính mã hóa/giải mã.
 - Nhược điểm:
   - Tốc độ mã hóa, giải mã chậm hơn so với mã hóa đối xứng
     
-7) Hãy nêu một vài ứng dụng của mã hóa bất đối xứng?.
+### 7) Hãy nêu một vài ứng dụng của mã hóa bất đối xứng?.
 
 - Ứng dụng cơ bản của các thuật toán mã hóa bất đối xứng nói chung bao gồm: 
   - Bí mật trong truyền tin (Confidentiality);
